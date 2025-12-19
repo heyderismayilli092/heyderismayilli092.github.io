@@ -1,2 +1,2 @@
-# heyderismayilli092.github.io
-Şəxsi Sayt
+# Şəxsi sayt
+Mənim haqqımda buradan məlumat ala bilərsiniz
